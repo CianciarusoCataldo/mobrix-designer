@@ -15,18 +15,6 @@ Design your react app in few steps, with a fully configurable system
 
 ---
 
-## Summary
-
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-- [Included libraries](#included-libraries)
-- [Authors](#authors)
-- [License](#license)
-
-<br>
-
----
-
 ## Getting started
 
 ### Installation

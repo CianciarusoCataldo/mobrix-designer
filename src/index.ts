@@ -1,0 +1,1 @@
+export { default as initMoBrixDesigner } from "./api/core/init";
